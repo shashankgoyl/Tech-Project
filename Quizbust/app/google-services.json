@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436691421297",
+    "project_id": "quizbust-a0303",
+    "storage_bucket": "quizbust-a0303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436691421297:android:00915f7ac072ab8d9ab3d0",
+        "android_client_info": {
+          "package_name": "com.techdecode.quizbust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436691421297-gp8l45iuvn9iv54ll6agtl8mh997petl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDVoAXpsX50LA2MKWPTvjxJ22XgVkAYgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436691421297-gp8l45iuvn9iv54ll6agtl8mh997petl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
